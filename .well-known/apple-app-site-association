@@ -1,0 +1,18 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["VYWVFR9PTV.se.gonzalezhedling.domesticequality"],
+        "components": [
+          { "/": "/domestic-equality/auth/callback", "comment": "Domestic Equality production auth callback" }
+        ]
+      },
+      {
+        "appIDs": ["VYWVFR9PTV.se.gonzalezhedling.domesticequality.staging"],
+        "components": [
+          { "/": "/domestic-equality-staging/auth/callback", "comment": "Domestic Equality staging auth callback" }
+        ]
+      }
+    ]
+  }
+}
